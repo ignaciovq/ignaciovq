@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">About me:</h3>
 <p align="left">
-I'm a highly motivated self-taught web developer. I’m passionate about writing clean, maintainable and easy to test code. Although, I have some experience with C++, I currently use the MERN stack to try to create interesting user experiences.
+I'm a highly motivated self-taught web developer. I’m passionate about writing clean, maintainable and easy to test code. Although I have some experience with C++, I currently use the MERN stack to try to create interesting user experiences.
 
 I'm currently learning GraphQL.
 </p>
